@@ -34,6 +34,18 @@
 
 ---
 
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <!-- Light mode -->
+  <img src="https://github.com/justt277/justt277/blob/output/github-snake.svg#gh-light-mode-only" alt="GitHub Snake Light" />
+  
+  <!-- Dark mode -->
+  <img src="https://github.com/justt277/justt277/blob/output/github-snake-dark.svg#gh-dark-mode-only" alt="GitHub Snake Dark" />
+</p>
+
+---
+
 ## 🧠 My Favorite Tools (Animated Badges)
 
 <p align="center">

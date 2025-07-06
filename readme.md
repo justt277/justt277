@@ -1,10 +1,10 @@
-<h1 align="center">
+<h1 align="center" style="font-size: 2.5rem; color: #ff6f61;">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="wave" /> 
   Hi, I'm Just277
 </h1>
 
-<p align="center">
-  💻 A passionate Full Stack Developer from Rwanda  
+<p align="center" style="font-size: 1.2rem;">
+  💻 A passionate <strong>Full Stack Developer</strong> from <strong>Rwanda</strong>  
   <br>
   🔧 I love building useful web systems using <strong>PHP, MySQL, Bootstrap, JavaScript</strong>
 </p>

@@ -115,13 +115,7 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake
-<!-- 🐍 Styled GitHub Contribution Snake Section -->
-<h2 align="center">🐍 GitHub Contribution Snake</h2>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e8a16&height=120&section=header&text=Watch%20My%20Code%20Slither!🐍&fontColor=ffffff&fontSize=25&animation=fadeIn" />
-</p>
 
 <p align="center" style="background-color: #0d1117; padding: 10px; border-radius: 12px;">
   <!-- Light mode -->
